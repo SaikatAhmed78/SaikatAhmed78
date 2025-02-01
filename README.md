@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there! 👋 I'm Saikat Ahmed
 
-<!--
-**SaikatAhmed78/SaikatAhmed78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **full-stack web development projects using Next.js, React, and Node.js.**
+- 🌱 I’m currently learning **advanced Next.js, performance optimization, and scalable backend architecture.**
+- 👯 I’m looking to collaborate on **open-source projects, innovative startups, and advanced web applications.**
+- 🤔 I’m looking for help with **DevOps, cloud deployment, and AI-powered web apps.**
+- 💬 Ask me about **JavaScript, React, Next.js, Tailwind CSS, and performance optimization techniques.**
+- 📫 How to reach me: **[Email](shikatahmed78@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shaikat-ahmed-86578632b/) | [GitHub](https://github.com/SaikatAhmed78)**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **I can build a complete full-stack app in a day with coffee and some good music! 🚀**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ **Let's build something amazing together!** 🚀
