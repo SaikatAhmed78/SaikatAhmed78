@@ -1,7 +1,6 @@
-(https://scontent.fzyl2-2.fna.fbcdn.net/v/t39.30808-6/337421958_522191856756208_6698369116689937495_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=5RSP_23h3HIQ7kNvgHT5rTJ&_nc_zt=23&_nc_ht=scontent.fzyl2-2.fna&_nc_gid=ArPmWsX7pkOtFsa_L7pCZz6&oh=00_AYBOOmOwG_4LE7MZLO4xJ-mjuaD7Y_A5QwFB5EzdOtKCQw&oe=67A46F16)
 ### Hi there 👋, I'm Saikat Ahmed
 #### A Passionate Web Developer | Crafting Dynamic & Scalable Solutions
-![A Passionate Web Developer |Crafting Dynamic & Scalable Solutions]
+![A Passionate Web Developer |Crafting Dynamic & Scalable Solutions](https://scontent.fzyl2-2.fna.fbcdn.net/v/t39.30808-6/337421958_522191856756208_6698369116689937495_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=5RSP_23h3HIQ7kNvgHT5rTJ&_nc_zt=23&_nc_ht=scontent.fzyl2-2.fna&_nc_gid=ArPmWsX7pkOtFsa_L7pCZz6&oh=00_AYBOOmOwG_4LE7MZLO4xJ-mjuaD7Y_A5QwFB5EzdOtKCQw&oe=67A46F16)
 
 I'm a dedicated front-end developer with a strong focus on creating responsive and user-friendly web applications. My passion lies in learning cutting-edge technologies and building impactful projects that solve real-world problems. I thrive in collaborative environments and enjoy exploring new ideas to create innovative solutions.
 
