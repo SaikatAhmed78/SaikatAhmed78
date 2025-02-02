@@ -1,4 +1,4 @@
-![A Passionate Web Developer | Crafting Dynamic & Scalable Solutions](https://media.licdn.com/dms/image/v2/D4D03AQFSOK9w9llTWw/profile-displayphoto-shrink_200_200/B4DZTD8U0YHAAY-/0/1738454159172?e=1743638400&v=beta&t=C0Z1KiJLVru8KqeAR1RIt9NvamVA0TbBTYTq1NfoP4o)
+![A Passionate Web Developer | Crafting Dynamic & Scalable Solutions](https://media.licdn.com/dms/image/v2/D4D16AQETAG_GFxkvgA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738539429209?e=1744243200&v=beta&t=vsMQMpDH_B6ypD7kHtqWtOaSra8KPcdqQHCFFmBGNeU)
 ### Hi there 👋, I'm Saikat Ahmed
 #### A Passionate Web Developer | Crafting Dynamic & Scalable Solutions
 
