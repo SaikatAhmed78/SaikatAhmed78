@@ -67,6 +67,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/SaikatAhmed78/SaikatAhmed78/output/snake.svg" alt="Snake animation" />
-
 ###
