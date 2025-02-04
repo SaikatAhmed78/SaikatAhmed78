@@ -62,14 +62,18 @@
 
 ###
 
+<h1 align="center">Github Graph</h1>
+
+###
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaikatAhmed78&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaikatAhmed78&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaikatAhmed78&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="250" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaikatAhmed78&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
