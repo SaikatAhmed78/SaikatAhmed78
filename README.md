@@ -1,27 +1,59 @@
-![A Passionate Web Developer | Crafting Dynamic & Scalable Solutions](https://media.licdn.com/dms/image/v2/D5616AQGKnw-SV2xUXQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738686252715?e=1744243200&v=beta&t=JVa7YYiCmOipNUxvFkceYE-R21_5dC5ZISMfR1I9194)
-### Hi there 👋, I'm Saikat Ahmed
-#### A Passionate Web Developer | Crafting Dynamic & Scalable Solutions
+<div align="center">
+  <img height="200" src="https://media.licdn.com/dms/image/v2/D5616AQGKnw-SV2xUXQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738686252715?e=1744243200&v=beta&t=JVa7YYiCmOipNUxvFkceYE-R21_5dC5ZISMfR1I9194"  />
+</div>
 
+###
 
-I'm a dedicated front-end developer with a strong focus on creating responsive and user-friendly web applications. My passion lies in learning cutting-edge technologies and building impactful projects that solve real-world problems. I thrive in collaborative environments and enjoy exploring new ideas to create innovative solutions.
+<h1 align="center">Hey 👋 I'm Saikat Ahmed</h1>
 
-Skills: React.js | Next.js | JavaScript | Tailwind CSS | Node.js | Express.js | MongoDB | Firebase
+###
 
-- 🔭 I’m currently working on  **full-stack web development projects using Next.js, React, and Node.js.** 
-- 🌱 I’m currently learning **advanced Next.js, performance optimization, and scalable backend architecture.** 
-- 👯 I’m looking to collaborate on  **advanced Next.js, performance optimization, and scalable backend architecture.** 
-- 🤔 I’m looking for help with **DevOps, cloud deployment, and AI-powered web apps.** 
-- 💬 Ask me about **JavaScript, React, Next.js, Tailwind CSS, and performance optimization techniques.** 
-- 📫 How to reach me: **[Email](shikatahmed78@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shaikat-ahmed-86578632b/) | [GitHub](https://github.com/SaikatAhmed78)** 
-- 😄 Pronouns: **He/Him** 
-- ⚡ Fun fact: **I can build a complete full-stack app in a day with coffee and some good music! 🚀** 
+<h1 align="center">About me</h1>
 
+###
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SaikatAhmed78)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ShaikatAhmed/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/saikat.ahmed.544161)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/saikat_ahmed338/)  
+<p align="left">A Passionate Web Developer | Crafting Dynamic & Scalable Solutions<br>I'm a dedicated front-end developer with a strong focus on creating responsive and user-friendly web applications. My passion lies in learning cutting-edge technologies and building impactful projects that solve real-world problems. I thrive in collaborative environments and enjoy exploring new ideas to create innovative solutions.</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaikatAhmed78)](https://github.com/anuraghazra/github-readme-stats)
+###
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SaikatAhmed78&show_icons=true)  
+<p align="left">✨ Crafting bugs & fixing them since: 2023<br>📚 Diving deep into: Advanced JavaScript, Next.js, and System Design<br>🎯 Goals: Master problem-solving, ace technical interviews, and build scalable web apps<br>🎲 Fun fact: I debug more than I code, yet I love both!<br>🚀 Passionate about: Clean code, optimized performance, and continuous learning</p>
 
+###
 
-✨ **Let's build something amazing together!** 🚀
+<h1 align="center">I code with</h1>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+</div>
+
+###
+
+<h1 align="center">Contact With Me</h1>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+</div>
+
+###
