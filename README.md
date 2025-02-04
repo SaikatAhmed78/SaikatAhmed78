@@ -1,4 +1,4 @@
-![A Passionate Web Developer | Crafting Dynamic & Scalable Solutions](https://pbs.twimg.com/profile_banners/1813592780914257920/1738685952/600x200)
+![A Passionate Web Developer | Crafting Dynamic & Scalable Solutions](https://media.licdn.com/dms/image/v2/D5616AQGKnw-SV2xUXQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738686252715?e=1744243200&v=beta&t=JVa7YYiCmOipNUxvFkceYE-R21_5dC5ZISMfR1I9194)
 ### Hi there 👋, I'm Saikat Ahmed
 #### A Passionate Web Developer | Crafting Dynamic & Scalable Solutions
 
