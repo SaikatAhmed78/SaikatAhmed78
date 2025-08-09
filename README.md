@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="[https://media.licdn.com/dms/image/v2/D4D16AQF__07FgqGlbQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739308887717?e=1751500800&v=beta&t=u6Uce_KuB4VBcJ2uxSS72N2vWAv6ZVLk1HcWzXLYEJc](https://www.linkedin.com/in/saikat-ahmed2/overlay/background-image/)"  />
+  <img height="200" src="https://media.licdn.com/dms/image/v2/D4D16AQF__07FgqGlbQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739308887717?e=1757548800&v=beta&t=vaTsxEaYHJQS2Iupdk0m1_Hnlb7Mw8RnE3XIdiVSxcA"  />
 </div>
 
 ###
